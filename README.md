@@ -49,6 +49,10 @@ On Matlab R2019a installed on a 2016 13-inch MacBook Pro with one 2.9 GHz Dual-C
 <img src="./QCQP_expect/QCQP_exp_n_200_p_150_M_100000_N_100000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
 
 ### Finite-sum structured QCQP with many constraints
-<img src="./QCQP_scenar/QCQP_scenario_n_10_p_5_M_10000_N_10000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
-<img src="./QCQP_scenar/QCQP_scenario_n_200_p_150_M_10000_N_10000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
+<img src="./QCQP_scenar/QCQP_scenario_n_10_p_5_M_10000_N_10000_K_50000_alpha_10_rho_3_gam_10.png"  width="600" height="400">
+<img src="./QCQP_scenar/QCQP_scenario_n_200_p_150_M_10000_N_10000_K_50000_alpha_10_rho_3_gam_10.png"  width="600" height="400">
  
+The performance of ApriD with different hyper-parameters can be found in the paper.
+
+## Reference  
+Yonggui Yan, Yangyang Xu, Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs.

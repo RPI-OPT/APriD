@@ -39,3 +39,16 @@ Three folders in this repository are corresponding to the three problems.
 On Matlab R2019a installed on a 2016 13-inch MacBook Pro with one 2.9 GHz Dual-Core Intel Core i5 processor and 16 GB memory. 
 
 ### Neyman-Pearson Classification Problem
+
+<img src="./Neyman_Pearson/spambase_ks_K_100000_alpha_10_10rho_10_gam_10_f1right_10prob7_1000eta_40.png"  width="800" height="200">
+<img src="./Neyman_Pearson/madelon_ks_K_100000_alpha_10_10rho_10_gam_10_f1right_10prob6_1000eta_40.png"  width="800" height="200">
+<img src="./Neyman_Pearson/gisette_ks_K_100000_alpha_10_10rho_10_gam_10_f1right_10prob6_1000eta_40.png"  width="800" height="200">
+
+### QCQP in Expectation Form
+<img src="./QCQP_expect/QCQP_exp_n_10_p_5_M_100000_N_100000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
+<img src="./QCQP_expect/QCQP_exp_n_200_p_150_M_100000_N_100000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
+
+### Finite-sum structured QCQP with many constraints
+<img src="./QCQP_scenar/QCQP_scenario_n_10_p_5_M_10000_N_10000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
+<img src="./QCQP_scenar/QCQP_scenario_n_200_p_150_M_10000_N_10000_K_50000_alpha_10_rho_3_gam_10.png"  width="800" height="200">
+ 

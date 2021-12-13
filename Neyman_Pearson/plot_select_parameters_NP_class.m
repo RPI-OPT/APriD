@@ -26,8 +26,7 @@ ylabel('$f_1(\mathbf{x})$','interpreter','latex','FontSize',20)
 
 sgtitle(filename,'FontSize',20)  
  
-print(gcf,'-dpdf', [filename, '_fixed_theta_alpha']);
-print(gcf,'-depsc', [filename, '_fixed_theta_alpha']);
+print(gcf,'-dpdf', [filename, '_fixed_theta_alpha']); 
 
 %%
 figure('papersize',[10,4],'paperposition',[-0.6,0,11.5,4]);
@@ -56,8 +55,7 @@ ylabel('$f_1(\mathbf{x})$','interpreter','latex','FontSize',20)
  
 sgtitle(filename,'FontSize',20)  
  
-print(gcf,'-dpdf', [filename, '_fixed_theta']);
-print(gcf,'-depsc', [filename, '_fixed_theta']);
+print(gcf,'-dpdf', [filename, '_fixed_theta']); 
 
 %%
 %%
@@ -99,7 +97,6 @@ ylabel('$f_1(\mathbf{x})$','interpreter','latex','FontSize',20)
  
 sgtitle(filename,'FontSize',20)  
 
-print(gcf,'-dpdf', [filename, '_vary_theta']);
-print(gcf,'-depsc', [filename, '_vary_theta']);
+print(gcf,'-dpdf', [filename, '_vary_theta']); 
 
 

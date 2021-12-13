@@ -58,4 +58,4 @@ The performance of ApriD with different hyper-parameters can be found in the pap
 Yonggui Yan, Yangyang Xu, Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs.
 
 ## License
-See the [LICENSE](./license.txt) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/RPI-OPT/APriD/blob/main/LICENSE.txt) file for license rights and limitations (MIT).

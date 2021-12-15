@@ -1,6 +1,6 @@
 # APriD
 
-This repository is the implementations of the paper: Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs.
+This repository is the implementations of the paper: Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs. [(Yan and Xu 2021)](#yan2020adaptive).
 
 ## Requirements
 Our implementations are in Matlab R2019a. 
@@ -55,7 +55,6 @@ On Matlab R2019a installed on a 2016 13-inch MacBook Pro with one 2.9 GHz Dual-C
 The performance of ApriD with different hyper-parameters can be found in the paper.
 
 ## Reference  
-Yonggui Yan, Yangyang Xu, Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs.
-
+- <a name="yan2020adaptive"></a> Yonggui Yan, Yangyang Xu, [Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs](https://arxiv.org/abs/2012.14943). Preprint arXiv:2012.14943, 2020.
 ## License
 See the [LICENSE](https://github.com/RPI-OPT/APriD/blob/main/LICENSE.txt) file for license rights and limitations (MIT).

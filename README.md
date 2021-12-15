@@ -1,6 +1,6 @@
 # APriD
 
-This repository is the implementations of the paper: Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs. [(Yan and Xu 2021)](#yan2020adaptive).
+This repository is the implementations of the paper: Adaptive Primal-Dual Stochastic Gradient Method for Expectation-constrained Convex Stochastic Programs. [(Yan and Xu 2020)](#yan2020adaptive).
 
 ## Requirements
 Our implementations are in Matlab R2019a. 
